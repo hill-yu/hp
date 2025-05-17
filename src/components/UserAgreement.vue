@@ -4,7 +4,7 @@ import config from '@/config'
 
 <template>
   <div class="UAContainer">
-    <h2>Cash&nbsp;Mob&nbsp;Terms of Use</h2>
+    <h2>Pop&nbsp;Cash&nbsp;Terms of Use</h2>
     <div class="welcome m_b_3">
       <h4 style="letter-spacing: 1px">LAST&nbsp;UPDATED:&nbsp;{{ config.releaseDate }}</h4>
       <p>
@@ -219,9 +219,8 @@ import config from '@/config'
             you provide us with any suggestions, creative ideas, improvements, comments and ideas or
             other feedback related to the Services or the Games promoted within the Services
             (collectively, “Feedback”), we will be entitled to use that Feedback without
-            restriction. You acknowledge that the incentives, rewards, or Units that Pop Cash
-            provides for your Feedback is valuable consideration; and in exchange, you grant Cash
-            Mob a royalty-free, non-exclusive, worldwide, license to the Feedback for as long as
+            provides for your Feedback is valuable consideration; and in exchange, you grant Pop
+            Cash a royalty-free, non-exclusive, worldwide, license to the Feedback for as long as
             permitted by applicable legislation, including the right to use, integrate, reproduce,
             analyze, combine, aggregate, report, distribute, sell, monetize, transform, create
             derivatives of, and publicly display such Feedback and its derivatives without
@@ -272,8 +271,8 @@ import config from '@/config'
             5.4. Units earned through the Services are not valid for any other program and may not
             be used in combination with any other program offered by Third Parties. Also, Units
             earned within the Android application cannot be combined with other Pop Cash service
-            offerings, such as Pop Cash’s progressive web application, IOS applications, or the Cash
-            Mob powered LoyaltyHub services.
+            offerings, such as Pop Cash’s progressive web application, IOS applications, or the Pop
+            Cash powered LoyaltyHub services.
           </p>
           <p>
             5.5. We reserve the right to change, suspend, or cancel all or a portion of a Rewards
@@ -379,14 +378,14 @@ import config from '@/config'
             to Units, Rewards, or permanently blocking an user or device, with notice where required by law.
             We will consider in good faith any information from the User to show that has been used without fraud and
             in accordance with these Terms. If you have questions about Pop Cash’s assessment of your behavior
-            compliance with the Rules of Conduct, contact us at contact.official.center@gmail.com.
+            compliance with the Rules of Conduct, contact us at fredrickboaz@gmail.com.
           </p>
         </li>
         <li>
           <h4>8. SUSPENSION AND TERMINATION</h4>
           <p>
-            8.1. You may stop using the Services at any time, for any reason, by uninstalling the Cash
-            Mob mobile application or discontinuing your use of any web-based Pop Cash products or
+            8.1. You may stop using the Services at any time, for any reason, by uninstalling the Pop
+            Cash mobile application or discontinuing your use of any web-based Pop Cash products or
             the Services.
           </p>
           <p>
@@ -464,8 +463,8 @@ import config from '@/config'
             REPRESENTATIONS AND WARRANTIES WITH RESPECT TO THE ACCURACY, COMPLETENESS, AVAILABILITY,
             TIMELINESS, USEFULNESS, OR RELIABILITY OF THE SERVICE (INCLUDING ANY CONTENT THEREON),
             AND (C) REPRESENTATIONS AND WARRANTIES THAT MAY ARISE OUT OF COURSE OF DEALING, COURSE
-            OF PERFORMANCE, USAGE, OR TRADE PRACTICE. WITHOUT LIMITING ANY OF THE FOREGOING, Cash
-            Mob MAKES NO WARRANTY OR REPRESENTATION OF ANY KIND THAT THE SERVICE WILL MEET ANY OF
+            OF PERFORMANCE, USAGE, OR TRADE PRACTICE. WITHOUT LIMITING ANY OF THE FOREGOING, Pop
+            Cash MAKES NO WARRANTY OR REPRESENTATION OF ANY KIND THAT THE SERVICE WILL MEET ANY OF
             YOUR REQUIREMENTS, ACHIEVE ANY RESULT, BE COMPATIBLE OR WORK WITH ANY OTHER SOFTWARE,
             SYSTEM, OR SERVICE, OR ARE UNINTERRUPTED, ACCURATE, FREE OF CONTENT ERRORS, VIRUSES,
             UNAUTHORIZED ACCESS, OR OTHER TECHNOLOGICALLY HARMFUL MATERIAL THAT MAY INFECT YOUR
@@ -485,8 +484,8 @@ import config from '@/config'
             TRIGGERED BY AN ADVERTISEMENT OF OUR SERVICES), PAIN AND SUFFERING, EMOTIONAL DISTRESS,
             LOSS OF REVENUE, LOSS OF PROFITS, LOSS OF BUSINESS OR AN ANTICIPATED SAVINGS, LOSS OF
             USE, LOSS OF GOODWILL, OR LOSS OF DATA, WHETHER CAUSED BY TORT (INCLUDING NEGLIGENCE)
-            BREACH OF CONTRACT, OR OTHERWISE, EVEN IF FORESEEABLE. USER FURTHER AGREES THAT Cash
-            Mob, ANY OF ITS AFFILIATES, OR ANY OF THE RESPECTIVE LICENSORS, SERVICE PROVIDERS,
+            BREACH OF CONTRACT, OR OTHERWISE, EVEN IF FORESEEABLE. USER FURTHER AGREES THAT Pop
+            Cash, ANY OF ITS AFFILIATES, OR ANY OF THE RESPECTIVE LICENSORS, SERVICE PROVIDERS,
             EMPLOYEES, AGENTS, OFFICERS, OR DIRECTORS OF ANY OF THE FOREGOING SHALL NOT BE LIABLE TO
             USER NOR TO ANY THIRD PARTY FOR ANY TERMINATION OF USER ACCESS TO THE SERVICES OR
             DELETION OF USER DATA. THE FOREGOING DOES NOT AFFECT ANY LIABILITY THAT CANNOT BE
@@ -496,8 +495,8 @@ import config from '@/config'
             THE SERVICES; AND (B) $90.00. SOME JURISDICTIONS DO NOT ALLOW CERTAIN LIMITATIONS OF
             LIABILITY AND, SOLELY TO THE EXTENT NOT SO ALLOWED, SOME OR ALL OF THE ABOVE LIMITATIONS
             OF LIABILITY MAY NOT APPLY TO YOU. You acknowledge and agree that the above exclusions
-            and limitations of liability are reasonable in accordance with each of your and Cash
-            Mob’s obligations and level of risk under these Terms. The limitation of liability
+            and limitations of liability are reasonable in accordance with each of your and Pop
+            Cash’s obligations and level of risk under these Terms. The limitation of liability
             does not apply to liability resulting from our gross negligence or willful misconduct.
           </p>
           <p>
@@ -513,8 +512,8 @@ import config from '@/config'
             (c) any unauthorized access to or use of your balances.
           </p>
           <p>
-            10.4. This Section 10 limitations of liability on Pop Cash’s part apply also to Cash
-            Mob’s affiliates, officers, directors, employees and agents. The terms in this Section
+            10.4. This Section 10 limitations of liability on Pop Cash’s part apply also to Pop
+            Cash’s affiliates, officers, directors, employees and agents. The terms in this Section
             10 shall apply to the fullest extent permissible under local laws.
           </p>
         </li>
@@ -566,7 +565,7 @@ import config from '@/config'
             any manner whatsoever, the meaning or scope of the provisions hereof.
           </p>
           <p>
-            12.5. You may contact Pop Cash by contact.official.center@gmail.com in case you identify
+            12.5. You may contact Pop Cash by fredrickboaz@gmail.com in case you identify
             any data entry error or would like to withdraw your consent to these Terms. In such case,
             Pop Cash may request information to confirm your active status before closing and
             deleting your balance.

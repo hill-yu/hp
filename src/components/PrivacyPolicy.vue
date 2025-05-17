@@ -214,8 +214,8 @@ import config from '@/config'
             <li>
               <strong>Analytics Service Providers.</strong>We work with analytics service providers
               that act as data processors to help us analyze and understand the personal data about
-              you and develop trends, patterns and insights to personalize your experience with Cash
-              Mob, curate your game selection, improve our Services, optimize sales and
+              you and develop trends, patterns and insights to personalize your experience with Pop
+              Cash, curate your game selection, improve our Services, optimize sales and
               advertising, and create new products. These analytics providers, such as Appsflyer,
               also measure, verify, and analyze performance of our marketing campaigns.
             </li>
@@ -286,7 +286,7 @@ import config from '@/config'
               <strong>The Right to Withdraw Consent. </strong>Where you provided us with your consent,
               you may withdraw your consent to the collection and processing of personal data at any time
               by contacting us as directed below or by sending a written request to
-              contact.official.center@gmail.com. Upon receiving notice that you have revoked your consent,
+              fredrickboaz@gmail.com. Upon receiving notice that you have revoked your consent,
               we will stop processing your personal data without undue delay. Withdrawing consent may
               impact your use of the Services, such as access to your balance, certain events,
               and eligibility for earning rewards.
@@ -297,7 +297,7 @@ import config from '@/config'
               </strong>
               By deleting your Data, any Units that you have earned and not redeemed will be deleted.
               Deleting an personal data : You can submit your data deletion application email to
-              contact.official.center@gmail.com (please attach a screenshot of the application information proof).
+              fredrickboaz@gmail.com (please attach a screenshot of the application information proof).
               The relevant privacy officer will confirm ownership as soon as possible after receiving
               the data deletion application email and provide data deletion service support.
             </li>
@@ -373,8 +373,8 @@ import config from '@/config'
               </p>
               <p>
                 Our employ mobile measurement partners to collect your information when you download
-                Pop Cash. These tracking technologies and the collection of Gameplay Data enable Cash
-                Mob to verify your task completion, calculate your loyalty rewards, and monitor
+                Pop Cash. These tracking technologies and the collection of Gameplay Data enable Pop
+                Cash to verify your task completion, calculate your loyalty rewards, and monitor
                 against fraudulent behavior. As such, these are necessary tracking technologies for
                 the operation of the Pop Cash loyalty program. If not accepted, we may not be able
                 to provide you with our Services.For visitors of the Pop Cash website, Pop Cash may
@@ -395,7 +395,7 @@ import config from '@/config'
           <h4>7. CONTACT US</h4>
           <p>
             If you have questions that do not relate to data privacy or to exercise applicable data
-            protection rights or comment, please write to contact.official.center@gmail.com
+            protection rights or comment, please write to fredrickboaz@gmail.com
           </p>
           <h4>SPECIFIC NOTICE FOR RESIDENTS OF THE UNITED STATES</h4>
           <p>
@@ -482,7 +482,7 @@ import config from '@/config'
             information to optimize advertising and marketing of the Services (including to prevent
             you from receiving Pop Cash advertisements in other media channels) may be classified as
             a “sale” or “sharing” under applicable California laws. You may opt out of such “sale”
-            or “sharing” by contacting customer service at contact.official.center@gmail.com.
+            or “sharing” by contacting customer service at fredrickboaz@gmail.com.
           </p>
           <p>
             We do not knowingly sell or share the personal information of anyone in the state of California
@@ -549,7 +549,7 @@ import config from '@/config'
           <p>
             Exercising Your Rights: You may opt out of sales and/or sharing or exercise your right
             to limit the use/disclosure of your sensitive personal information by sending a request
-            to contact.official.center@gmail.com. See the Section entitled “EXERCISING OF YOUR RIGHTS”
+            to fredrickboaz@gmail.com. See the Section entitled “EXERCISING OF YOUR RIGHTS”
             of the Notice for more information.
           </p>
           <p>
@@ -581,7 +581,7 @@ import config from '@/config'
             with most websites, we do not honor or alter our behavior when a user to one of
             our Websites has activated the “do-not-track” setting on her/his browser. You may seek
             to opt out of tracking technologies by sending a request to by sending a request
-            to contact.official.center@gmail.com; however, please note that there are necessary
+            to fredrickboaz@gmail.com; however, please note that there are necessary
             tracking technologies within the Pop Cash application to validate your game engagement
             and enable Pop Cash to supply you with our loyalty rewards program.
           </p>
@@ -611,7 +611,7 @@ import config from '@/config'
             with third parties for such purposes, see the Disclosure of Personal Information subsection
             in the Additional Disclosures for Residents of California, USA section above.  You may opt
             out disclosure of your data to advertising networks and platforms for these purposes
-            by contacting customer service at contact.official.center@gmail.com.
+            by contacting customer service at fredrickboaz@gmail.com.
           </p>
           <p>
             Depending on where you reside, and subject to certain exceptions, you may have the following
@@ -631,7 +631,7 @@ import config from '@/config'
           <p>Deletion. You may have the right to request deletion of your personal data.</p>
           <p>Opt Out of Sales and Targeted Advertising. You may have the right to request that we not process your personal data for the purposes of marketing the Pop Cash Services to others, including to prevent you from receiving Pop Cash advertisements in other channels or for targeted advertising, sales, or profiling in furtherance of decisions that produce legal or similarly significant effects, as those terms are defined by applicable state law.</p>
           <p>Opt Out of Profiling. You may have the right to request that we not process your personal data for the purpose of profiling in furtherance of decisions that produce legal or similarly significant effects. However, if you exercise this opt out, Pop Cash will be unable to provide you with the loyalty rewards program.</p>
-          <p>You may exercise your opt out of rights by contacting customer support or contact.official.center@gmail.com.</p>
+          <p>You may exercise your opt out of rights by contacting customer support or fredrickboaz@gmail.com.</p>
           <p>You may submit requests to exercise your other rights as directed in the Notice. Please include the phrase “Personal Information Privacy Request” in the subject line, the Service you are inquiring about, along with your name, address, and email address. If we receive a request to delete your personal data, we will need to clear your data. We cannot keep a record of individuals whose personal data we have deleted, so you may be contacted again by us, should we come into possession of your personal data at a later date.</p>
           <p>Depending on where you reside, you may also use an authorized agent to act on your behalf to submit requests to exercise your rights. We will honor a request from an authorized agent provided that: i) you provide written authorization to the authorized agent to act on your behalf and we can verify your identity, and ii) the agent submits proof of authorization.</p>
 
@@ -658,8 +658,8 @@ import config from '@/config'
             <p><b>1 General</b></p>
             <p>Personal information. References to “personal information” in this Privacy Policy should be understood to include a reference to “personal data” as defined in the GDPR. Under the GDPR, “personal data” means information about individuals from which they are either directly identified or can be identified. The personal information that we collect from and about you is described in greater detail in ‘Personal information we collect’.</p>
             <p>Controller. Century Games Pte. Ltd. is the controller in respect of the processing of your personal information covered by this Privacy Policy for purposes of European data protection legislation (including the https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN and the so-called ‘https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/969514/20201102_-_GDPR_-__MASTER__Keeling_Schedule__with_changes_highlighted__V4.pdf (as and where applicable, the “GDPR”)). See the ‘Contact Us’ section above for our contact details.</p>
-            <p>Our GDPR representatives. We have appointed the following representatives in Europe as required by the GDPR – you can contact them by email to: [contact.official.center@gmail.com].</p>
-            <p>Our Data Protection Officer. We have appointed a “Data Protection Officer”, this is a person who is responsible for independently overseeing and advising us in relation to our compliance with the GDPR (including compliance with the practices described in this Privacy Policy). If you want to contact our Data Protection Officer directly, you can email: [contact.official.center@gmail.com]</p>
+            <p>Our GDPR representatives. We have appointed the following representatives in Europe as required by the GDPR – you can contact them by email to: [fredrickboaz@gmail.com].</p>
+            <p>Our Data Protection Officer. We have appointed a “Data Protection Officer”, this is a person who is responsible for independently overseeing and advising us in relation to our compliance with the GDPR (including compliance with the practices described in this Privacy Policy). If you want to contact our Data Protection Officer directly, you can email: [fredrickboaz@gmail.com]</p>
             <p><b>2 Our legal basis for processing</b></p>
             <p>In respect of each of the purposes for which we use your personal information, the GDPR requires us to ensure that we have a “legal basis” for that use.</p>
             <p>● Our legal bases for processing your personal information described in this Privacy Policy are listed below.Where we need to perform a contract we are about to enter into or have entered into with you (“Contractual Necessity”).</p>
@@ -693,7 +693,7 @@ import config from '@/config'
             <p>● Restrict. Restrict the processing of your personal information, for example if you want us to establish its accuracy or the reason for processing it.</p>
             <p>● Object. Object to our processing of your personal information where we are relying on Legitimate Interests – you also have the right to object where we are processing your personal information for direct marketing purposes.</p>
             <p>● Withdraw Consent. When we use your personal information based on your consent, you have the right to withdraw that consent at any time.</p>
-            <p>Exercising These Rights. You may submit these requests by email to [contact.official.center@gmail.com] or our postal address provided above. We may request specific information from you to help us confirm your identity and process your request. Whether or not we are required to fulfill any request you make will depend on a number of factors (e.g., why and how we are processing your personal information), if we reject any request you may make (whether in whole or in part) we will let you know our grounds for doing so at the time, subject to any legal restrictions.</p>
+            <p>Exercising These Rights. You may submit these requests by email to [fredrickboaz@gmail.com] or our postal address provided above. We may request specific information from you to help us confirm your identity and process your request. Whether or not we are required to fulfill any request you make will depend on a number of factors (e.g., why and how we are processing your personal information), if we reject any request you may make (whether in whole or in part) we will let you know our grounds for doing so at the time, subject to any legal restrictions.</p>
             <p>Your Right to Lodge a Complaint with your Supervisory Authority. In addition to your rights outlined above, if you are not satisfied with our response to a request you make, or how we process your personal information, you can make a complaint to the data protection regulator in your habitual place of residence.</p>
             <p>● For users in the European Economic Area – the contact information for the data protection regulator in your place of residence can be found here: https://edpb.europa.eu/about-edpb/board/members_en</p>
             <p>● For users in the United Kingdom – the contact information for the UK data protection regulator is below:</p>
@@ -703,7 +703,7 @@ import config from '@/config'
             <p>Tel. +44 303 123 1113</p>
             <p>Website: https://ico.org.uk/make-a-complaint/</p>
             <p><b>5 Data processing outside Europe</b></p>
-            <p>For EEA/UK users, transfers between our affiliates and to third parties use applicable safeguards, such as incorporating standard contractual clauses or taking into account adequacy assessments. You may contact us if you want further information on the specific mechanism used by us when transferring your personal information out of Europe. You may have the right to receive a copy of the appropriate safeguards under which your personal information is transferred by contacting us at contact.official.center@gmail.com</p>
+            <p>For EEA/UK users, transfers between our affiliates and to third parties use applicable safeguards, such as incorporating standard contractual clauses or taking into account adequacy assessments. You may contact us if you want further information on the specific mechanism used by us when transferring your personal information out of Europe. You may have the right to receive a copy of the appropriate safeguards under which your personal information is transferred by contacting us at fredrickboaz@gmail.com</p>
         </li>
       </ol>
     </div>
